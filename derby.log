@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 02 15:42:10 CST 2026:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-01a0-6111-7987-00001f2786e0 
+on database directory D:\java\eclipse\project\WordBook\MyEnglishBook with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@75b84c92 
+Loaded from file:/D:/java/eclipse/project/WordBook/derby.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=21.0.10+7-LTS
+user.dir=D:\java\eclipse\project\WordBook
+os.name=Windows 11
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
